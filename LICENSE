@@ -1,21 +1,25 @@
-MIT License
+Buiatti Dual License v1.0
+1. Licença Aberta para Uso Não Comercial e Pequenas Empresas
+Este software é disponibilizado gratuitamente para indivíduos, organizações sem fins lucrativos e pequenas e médias empresas (PMEs), sob os seguintes termos:
 
-Copyright (c) 2024 Buiatti
+Direitos Concedidos: Usuários podem usar, copiar, modificar e distribuir o software livremente.
+Restrições:
+Não é permitida a revenda direta do software sem autorização expressa.
+O nome do autor e os créditos originais devem ser mantidos em qualquer versão distribuída.
+Qualquer modificação significativa deve ser documentada.
+2. Licença Comercial para Grandes Empresas
+Empresas que se enquadram na categoria de grande porte (definidas como aquelas com faturamento anual superior a US$ X milhões ou equivalente na moeda local) devem obter uma licença comercial para uso do software em suas operações.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Termos Comerciais:
+O uso por grandes empresas requer um contrato de licença paga diretamente com o autor.
+A licença comercial pode incluir royalties ou uma taxa fixa, dependendo do modelo de negócios acordado.
+O suporte técnico e atualizações adicionais podem ser oferecidos como parte do contrato comercial.
+3. Isenção de Responsabilidade
+O software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização, adequação a um determinado fim e não violação. Em nenhuma hipótese os autores ou detentores dos direitos autorais serão responsáveis por qualquer reivindicação, dano ou outra responsabilidade, seja em contrato, ato ilícito ou de outra forma, decorrente de ou relacionada ao software ou ao uso ou outras negociações no software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+4. Contato para Licenciamento Comercial
+Para obter uma licença comercial ou discutir termos específicos, entre em contato com:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Autor: Roberto Caetano Buiatti
+E-mail: [robertobuiatti2@gmail.com]
+Github: [(https://github.com/RobertoBuiatti)]
