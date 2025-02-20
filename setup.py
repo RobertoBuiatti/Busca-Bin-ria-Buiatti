@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="buscabinaria-buiatti",
     version="0.1.0",
-    author="Buiatti",
+    author="Roberto Caetano Buiatti",
     description="Implementação otimizada do algoritmo de busca binária com verificações laterais",
     long_description="""
     Uma implementação otimizada do algoritmo de busca binária que verifica os elementos 
