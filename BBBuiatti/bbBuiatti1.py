@@ -258,7 +258,7 @@ class BuscaBinariaAnalise:
         return -1
 
     @staticmethod
-    def busca_binaria_modificada(lista_tuple: tuple, alvo: int) -> int:
+    def busca_binaria_Buiatti(lista_tuple: tuple, alvo: int) -> int:
         """
         Implementação otimizada de busca binária com verificações laterais.
         Verifica os elementos imediatamente à esquerda e à direita do meio a cada iteração,
@@ -342,7 +342,7 @@ class BuscaBinariaAnalise:
         cpu_inicio = processo.cpu_percent()
         memoria_inicio = processo.memory_info().rss
 
-        resultado_modificada = BuscaBinariaAnalise.busca_binaria_modificada(
+        resultado_modificada = BuscaBinariaAnalise.busca_binaria_Buiatti(
             tuple(lista), alvo
         )
 
