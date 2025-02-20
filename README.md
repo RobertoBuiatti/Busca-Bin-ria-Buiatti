@@ -1,6 +1,6 @@
 # Busca Binária Buiatti
 
-A **Busca Binária Buiatti** é uma biblioteca em Python que implementa o algoritmo de busca binária, permitindo localizar a posição de um elemento específico em uma lista ordenada de maneira eficiente.
+A **Busca Binária Buiatti** é uma biblioteca em Python que implementa o algoritmo de busca binária personalizado, permitindo localizar a posição de um elemento específico em uma lista ordenada de maneira eficiente que o da busca binária tradicional.
 
 ## Descrição
 
