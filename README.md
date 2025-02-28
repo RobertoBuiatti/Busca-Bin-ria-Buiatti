@@ -47,8 +47,4 @@ if indice != -1:
 else:
     print("Elemento não encontrado na lista.")
 </span></code></div></div></pre>
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 7a3c405 (alteração readme)
