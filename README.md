@@ -48,6 +48,4 @@ else:
     print("Elemento não encontrado na lista.")
 </span></code></div></div></pre>
 
-## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias e correções.
